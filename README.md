@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailesh Jadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <img align="center" alt="coding" width="400" src="https://contentstatic.techgig.com/photo/msid-80100511/4-Must-have-software-skills-for-application-developers.jpg">
 
