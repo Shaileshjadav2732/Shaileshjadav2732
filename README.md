@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shailesh Jadav</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-<p align ="center">
- <img align=”center” alt=”coding” width=”300” height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
+
+<h3 align="left"> A passionate Android developer from India </h3>
+<a href="https://www.android.com/intl/en_in/"><img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-transparent-png-svg-vector-2.png" align="right" height="100" width="100" ></a>
+
+<p align ="left">
+ <img align=”rightr” alt=”coding” width=”300” height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png">
 </p>
 
 ------------------------------------------ 
@@ -22,7 +26,10 @@
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **jshailesh798@gmail.com**
-<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
+### 📈 GitHub Activity Graph:
+![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shaileshjadav2732&theme=github-compact)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_shailesh_jadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shailesh_jadav" height="30" width="40" /></a>
