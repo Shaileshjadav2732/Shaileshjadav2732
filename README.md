@@ -72,7 +72,7 @@
 
 
 | <a href="https://github.com/Shaileshjadav2732"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" /></a> |
- <img align="right" src="https://thumbs.gfycat.com/EnlightenedFearlessFrenchbulldog.webp" width="350">
+ <img align="right" src="https://thumbs.gfycat.com/EnlightenedFearlessFrenchbulldog.webp" width="300">
  
  | <a href="https://github.com/Shaileshjadav2732"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 <a href="#">
