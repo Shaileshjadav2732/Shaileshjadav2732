@@ -1,3 +1,6 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
 
@@ -14,7 +17,6 @@
  <img align=”center” alt=”coding” width=”300” src="https://media.licdn.com/dms/image/D4D16AQG9MaETB7tlJg/profile-displaybackgroundimage-shrink_350_1400/0/1680810917396?e=1688601600&v=beta&t=iNTBWZ2ZYs2fIzHHlaKTt76zes9lPlpVIqQqx-4xovM">
 </p>
 <img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Monitored+closely&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
-
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Shaileshjadav2732&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -37,11 +39,8 @@
 <a href="https://instagram.com/_shailesh_jadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shailesh_jadav" height="30" width="40" /></a>
 </p>
 
-
-
 </span></div></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-nz1d88df  1/3"><div class="dorik-wrapper dorik-heading-2macrb40-wrapper "><h1 class="dorik-heading dorik-heading-2macrb40 "><span>Tools
 <div align="center">
-
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> 
@@ -76,5 +75,7 @@
  <img align="right" src="https://thumbs.gfycat.com/EnlightenedFearlessFrenchbulldog.webp" width="350">
  
  | <a href="https://github.com/Shaileshjadav2732"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
