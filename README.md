@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
 
-<h3 align="left"> A passionate Android developer from India </h3>
+<h3 align="center"> A passionate Android developer from India </h3>
 <a href="https://www.android.com/intl/en_in/"><img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-transparent-png-svg-vector-2.png" align="right" height="50" width="50" ></a>
 
-<p align ="left">
+<p align ="center">
  <img align=”rightr” alt=”coding” width=”300” height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png">
 </p>
 
@@ -31,50 +31,32 @@
 ### 📈 GitHub Activity Graph:
 ![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shaileshjadav2732&theme=github-compact)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_shailesh_jadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shailesh_jadav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shailesh-jadav-461132250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shailesh-jadav-461132250/" height="30" width="40" /></a>
-<a href="https://instagram.com/_shailesh_jadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shailesh_jadav" height="30" width="40" /></a>
-</p>
-
-</span></div></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-nz1d88df  1/3"><div class="dorik-wrapper dorik-heading-2macrb40-wrapper "><h1 class="dorik-heading dorik-heading-2macrb40 "><span>Tools
+## My skills and tools
 <div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <br> 
-![windows](https://img.shields.io/badge/windows-%23323330.svg?style=for-the-badge&logo=windows&logoColor=%23F7DF1E) 
-![ubuntu](https://img.shields.io/badge/ubuntu-F80000.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) <br> 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-</div>
-<p align="left">
-
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
- 
-| <a href="Shaileshjadav2732"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaileshjadav2732&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shailesh's github stats" /></a> |
-
-
-| <a href="https://github.com/Shaileshjadav2732"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" /></a> |
- <img align="right" src="https://thumbs.gfycat.com/EnlightenedFearlessFrenchbulldog.webp" width="300">
- 
- | <a href="https://github.com/Shaileshjadav2732"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender badge" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio badge" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux badge" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop badge" />
+<div/>
+  
+  <div align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C badge" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+<div/>
+    <div align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle badge" /><div/>
+      
+## Connect with me
+ <a href="https://www.linkedin.com/in/shailesh-jadav-461132250//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+<a href="https://twitter.com/_Shailesh_Jadav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" /></a>
+<a href="https://www.instagram.com/_shailesh_jadav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" /></a>
+      
+      
+<br>
+    
+ <a href="Shaileshjadav2732"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shaileshjadav2732&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shailesh's github stats" width="400"/></a>
+      
+ <a href="https://github.com/Shaileshjadav2732"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" width="350"/></a>
+    
+  <a href="https://github.com/Shaileshjadav2732"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" width="400" /></a> 
+     
+    
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
