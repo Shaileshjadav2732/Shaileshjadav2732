@@ -28,8 +28,6 @@
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **jshailesh798@gmail.com**
-### 📈 GitHub Activity Graph:
-![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shaileshjadav2732&theme=github-compact)
 
 ## My skills and tools
 <div align="center">
