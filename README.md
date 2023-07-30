@@ -14,7 +14,7 @@
 ------------------------------------------ 
 ------------------------------------------
 
- <img align=”center” alt=”coding” width=”300” src="https://media.licdn.com/dms/image/D4D16AQG9MaETB7tlJg/profile-displaybackgroundimage-shrink_350_1400/0/1680810917396?e=1688601600&v=beta&t=iNTBWZ2ZYs2fIzHHlaKTt76zes9lPlpVIqQqx-4xovM">
+
 </p>
 <img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Monitored+closely&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
 
