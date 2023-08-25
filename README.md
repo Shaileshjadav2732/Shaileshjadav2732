@@ -61,4 +61,4 @@
 
 ### 📈 GitHub Activity Graph:
 
-![Shailesh's github activity graph](https://raw.githubusercontent.com/Shaileshjadav2732/Shaileshjadav2732/output/github-contribution-grid-snake.svg)
+![Shailesh's github activity graph](https://raw.githubusercontent.com/Shaileshjadav2732/output/github-contribution-grid-snake.svg)
