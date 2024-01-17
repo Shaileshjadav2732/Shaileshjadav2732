@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Web+Developer)](https://git.io/typing-svg)
 
 <h3 align="center"> A passionate Web developer from India </h3>
 <p align ="center">
