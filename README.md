@@ -1,12 +1,13 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Web+Developer)](https://git.io/typing-svg)
-
-<h3 align="center"> A passionate Web developer from India </h3>
-<p align ="center">
- <img align=”rightr” alt=”coding” width=”300” height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png">
+ <a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  </a>
+  <h1 align="center">Hi there! 👋 I'm Shailesh Jadav</h1>
+  <p align="center">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Welcome+to+My+Profile!;Web+Experience+Enthusiast" alt="Typing SVG">
+  </p>
+  <p align="center">
+    <img width="300" height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png" alt="Coding Ninja">
+  </p>
 </p>
 
 ------------------------------------------ 
@@ -27,17 +28,24 @@
 
 - 📫 How to reach me **jshailesh798@gmail.com**
 
-## My skills and tools
+## My skills 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="48" height="48" alt="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java">
+</div>
+
+## Tools
+
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender badge" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio badge" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux badge" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop badge" />
-<div/>
-  
-  <div align="center">
-    <a target="_new" href="https://react.dev/reference/react-E34F26"><img width="48" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title"React" /></a>
- <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java &logoColor=white" alt="java badge" /> <img src="https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript &logoColor=white" alt="javascript badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C badge" />
-<div/>
-    <div align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle badge" /><div/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?stzyle=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle badge" /><div/>
       
 ## Connect with me
  <a href="https://www.linkedin.com/in/shailesh-jadav-461132250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
