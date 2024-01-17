@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Hi+there+👋,+I+am+Shailesh+Jadav;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
 
-<h3 align="center"> A passionate Android developer from India </h3>
-<a href="https://www.android.com/intl/en_in/"><img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-transparent-png-svg-vector-2.png" align="right" height="50" width="50" ></a>
-
+<h3 align="center"> A passionate Web developer from India </h3>
 <p align ="center">
  <img align=”rightr” alt=”coding” width=”300” height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png">
 </p>
@@ -25,7 +23,7 @@
 
 - 🔭 I’m currently working on [GO Garage](https://github.com/Shaileshjadav2732/GO-Garage1/tree/master)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **jshailesh798@gmail.com**
 
