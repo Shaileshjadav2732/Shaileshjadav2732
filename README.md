@@ -5,16 +5,7 @@
   <p align="center">
     <img width="400" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Welcome+to+My+Profile!;Web+Experience+Enthusiast" alt="Typing SVG">
   </p>
-  <p align="center">
-    <img width="300" height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png" alt="Coding Ninja">
-  </p>
-</p>
 
------------------------------------------- 
-------------------------------------------
-
-
-</p>
 <img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Monitored+closely&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
 
 
