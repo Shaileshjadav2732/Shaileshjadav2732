@@ -13,8 +13,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shaileshjadav2732&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
-<p>
-   <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
+
+
+<p  width="400" >
+   <img align="right" width="250" src="/programmer.gif" alt="Coding gif" />
 
 - 🔭 I’m currently working on [GO Garage](https://github.com/Shaileshjadav2732/GO-Garage1/tree/master)
 
@@ -22,6 +24,7 @@
 
 - 📫 How to reach me **jshailesh798@gmail.com**
   </p>
+  </p></br>
 ## My skills 
 
 <div align="center">
