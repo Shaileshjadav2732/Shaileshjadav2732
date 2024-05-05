@@ -7,7 +7,7 @@
   </p>
 </p>
 </p>
-<img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Monitored+closely&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
+<img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Shaileshjadav2732&theme=radical&no-frame=false&no-bg=true&margin-w=4)
