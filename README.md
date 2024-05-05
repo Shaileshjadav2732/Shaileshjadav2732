@@ -5,15 +5,7 @@
   <p align="center">
     <img width="400" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=400&lines=Welcome+to+My+Profile!;Web+Experience+Enthusiast" alt="Typing SVG">
   </p>
-  <p align="center">
-    <img width="300" height="250" src="https://juststickers.in/wp-content/uploads/2017/11/ninja-coder-326x326.png" alt="Coding Ninja">
-  </p>
 </p>
-
------------------------------------------- 
-------------------------------------------
-
-
 </p>
 <img src="https://komarev.com/ghpvc/?username=Shaileshjadav2732&label=Monitored+closely&color=blue&style=plastic&style=for-the-badge" alt="Shaileshjadav2732"/> </p>
 
@@ -21,13 +13,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Shaileshjadav2732&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
+<p>
+   <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
 
 - 🔭 I’m currently working on [GO Garage](https://github.com/Shaileshjadav2732/GO-Garage1/tree/master)
 
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **jshailesh798@gmail.com**
-
+  </p>
 ## My skills 
 
 <div align="center">
