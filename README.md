@@ -56,7 +56,6 @@
       
  <a href="https://github.com/Shaileshjadav2732"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaileshjadav2732&layout=compact&theme=tokyonight&hide_border=true" width="350"/></a>
     
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shaileshjadav2732&theme=tokyonight&card_width=410&card_height=177" alt="GitHub Streak" /></a>
    ![Shailesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaileshjadav2732&custom_title=Shailesh%20Jadav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
